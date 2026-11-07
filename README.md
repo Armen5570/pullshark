@@ -7,7 +7,7 @@ hello36asdwadasasdssd
 hello37asdsdasd
 hello38asdsaasdfghasdsdsdasdasddsa
 hello41asdsdbasdasdasdasdwdasadd
-## My First Pull Request 🦈ոդasdasdasdasdasdasd
+## My First Pull Request 🦈ոդasdasdasdasdasdasdasd
 Learning GitHub conasdtributions!bmbnasdasasddasd
 ## Contribution 1asdasd
 Improving project documentation.sadasd
