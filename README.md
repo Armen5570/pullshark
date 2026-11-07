@@ -12,3 +12,5 @@ hello41
 hello42
 ## My First Pull Request 🦈
 Learning GitHub contributions!
+## Contribution 1
+Improving project documentation.
