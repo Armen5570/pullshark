@@ -6,8 +6,7 @@ hello35
 hello36asd
 hello37asdsd
 hello38asdsaasd
-hello39սդjjvbnghjasdqwesd
-hello40asdasddasdasd
+hello39սդjjvbnghjasdqwesdasd
 hello41asdsdbasdasd
 ## My First Pull Request 🦈ոդasd
 Learning GitHub conasdtributions!bmbnasdasd
