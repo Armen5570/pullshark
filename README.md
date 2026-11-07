@@ -10,7 +10,7 @@ hello39սդjjvbnghjasd
 hello40asdasddasd
 hello41asdsdbasd
 ## My First Pull Request 🦈ոդasd
-Learning GitHub conasdtributions!bmbnasd
+Learning GitHub conasdtributions!bmbnasdasd
 ## Contribution 1asd
 Improving project documentation.sad
 asdasd
